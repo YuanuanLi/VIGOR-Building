@@ -1,5 +1,7 @@
 # VIGOR-Building Dataset
 
+![VIGOR-Building Dataset Examples](dataset_examples.png "VIGOR-Building Dataset Examples")
+
 ## Introduction
 The VIGOR-Building dataset aims to evaluate the cross-view object geo-localization task in a more realistic setting, bridging the gap between many-to-many object localization and existing datasets. VIGOR-Building is built upon the VIGOR-GAN dataset and aims to provide a more comprehensive and realistic resource to support research and development in the field of cross-view object geo-localization.
 
@@ -13,6 +15,7 @@ To facilitate object localization, we annotated the ground images using YOLOv9 a
 The download link is [VIGOR-Building](https://drive.google.com/file/d/1KxyficZFY20IxMP_rI0WK2ZE15_GSLrJ/view?usp=sharing ).
 
 ## Citation
+```bibtex
 @article{yang2024retrieval,
   title={Retrieval-guided Cross-view Image Synthesis},
   author={Yang, Hongji and Li, Yiru and Zhu, Yingying},
