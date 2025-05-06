@@ -20,3 +20,6 @@ The download link is [VIGOR-Building](https://drive.google.com/file/d/1KxyficZFY
 
 <div id="yang"></div>
 [1] Yang H, Li Y, Zhu Y. Retrieval-guided Cross-view Image Synthesis[J]. arXiv preprint arXiv:2411.19510, 2024.
+
+<div id="li"></div>
+[2] Li Y, Zhang Q, Zhu Y. Rethinking Cross-view Object Geo-Localization: Towards Many-to-Many Real-world Localization[C]//2025 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2025.
