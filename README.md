@@ -5,7 +5,7 @@
 </div>
 
 ## Introduction
-The VIGOR-Building dataset aims to evaluate the cross-view object geo-localization task in a more realistic setting, bridging the gap between many-to-many object localization and existing datasets. VIGOR-Building is built upon the VIGOR-GEN dataset[^1] and aims to provide a more comprehensive and realistic resource to support research and development in the field of cross-view object geo-localization.
+The VIGOR-Building dataset aims to evaluate the cross-view object geo-localization task in a more realistic setting, bridging the gap between many-to-many object localization and existing datasets. VIGOR-Building is built upon the VIGOR-GEN dataset[<sup>1</sup>](#yang) and aims to provide a more comprehensive and realistic resource to support research and development in the field of cross-view object geo-localization.
 
 ## Data Collection
 The VIGOR-Building dataset includes images from three major cities: Chicago, New York, and San Francisco. We have randomly selected images from these cities to ensure diversity and comprehensive coverage.
@@ -17,12 +17,6 @@ To facilitate object localization, we annotated the ground images using YOLOv9 a
 The download link is [VIGOR-Building](https://drive.google.com/file/d/1KxyficZFY20IxMP_rI0WK2ZE15_GSLrJ/view?usp=sharing ).
 
 ## Citation
-```bibtex
-@article{yang2024retrieval,
-  title={Retrieval-guided Cross-view Image Synthesis},
-  author={Yang, Hongji and Li, Yiru and Zhu, Yingying},
-  journal={arXiv preprint arXiv:2411.19510},
-  year={2024}
-}
 
-[^1]: 1232
+<div id="yang"></div>
+[1] Yang H, Li Y, Zhu Y. Retrieval-guided Cross-view Image Synthesis[J]. arXiv preprint arXiv:2411.19510, 2024.
