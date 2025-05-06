@@ -18,10 +18,11 @@ The download link is [VIGOR-Building](https://drive.google.com/file/d/1KxyficZFY
 
 ## Citation
 ```bibtex
-[^1]:
 @article{yang2024retrieval,
   title={Retrieval-guided Cross-view Image Synthesis},
   author={Yang, Hongji and Li, Yiru and Zhu, Yingying},
   journal={arXiv preprint arXiv:2411.19510},
   year={2024}
 }
+
+[^1]: 1232
